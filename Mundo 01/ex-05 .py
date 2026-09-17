@@ -1,0 +1,22 @@
+print('TABUADA MALUCA')
+n1=int(input('Digite um número:'))
+a=n1*1
+b=n1*2
+c=n1*3
+d=n1*4
+e=n1*5
+f=n1*6
+g=n1*7
+h=n1*8
+i=n1*9
+j=n1*10
+print('{} X {:2} = {:2}'.format(n1,1,a))
+print('{} X {:2} = {:2}'.format(n1,2,b))
+print('{} X {:2} = {:2}'.format(n1,3,c))
+print('{} X {:2} = {:2}'.format(n1,4,d))
+print('{} X {:2} = {:2}'.format(n1,5,e))
+print('{} X {:2} = {:2}'.format(n1,6,f))
+print('{} X {:2} = {:2}'.format(n1,7,g))
+print('{} X {:2} = {:2}'.format(n1,8,h))
+print('{} X {:2} = {:2}'.format(n1,9,i))
+print('{} X {:2} = {:2}'.format(n1,10,j))

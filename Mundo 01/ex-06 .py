@@ -1,0 +1,5 @@
+n=input('Digite algo, para mostrarmos suas respecivas propriedades:')
+print('É numérico?',n.isnumeric())
+print('É alfabético?',n.isalpha())
+print('Só tem espaço?',n.isspace())
+print('É número inteiro?',n.isdecimal())

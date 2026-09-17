@@ -1,0 +1,5 @@
+print('Conversor de moedas')
+n1=float(input('R$='))
+print('Com {} Reais, você tem {:.2f} Dólares'.format(n1,n1/5.90))
+print('Com {} Reais, você tem {:.2f} Euros'.format(n1,n1/6.45))
+print('Com {} Reais, você tem {:.2f} Remimbis'.format(n1,n1/0.79))
