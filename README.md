@@ -1,3 +1,1 @@
-# Olá, mundo!
-
-Primeiro repositório do curso de Git e GitHub.
+Exercícios realizados no Curso de Python 3 (Curso em Vídeo).
